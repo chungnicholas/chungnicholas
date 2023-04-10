@@ -4,7 +4,9 @@
 
 - :computer: Bachelor of Computing, Information Security (w/ Hons)
 
-- :mag_right: Currently looking for internship opportunities!
+- :vertical_traffic_light: Owner and developer of <a href="https://t.me/SGtrafficbot" title="SGtrafficbot" target="_blank">SGtrafficbot</a> on telegram
+
+<!-- - :mag_right: Currently looking for internship opportunities! -->
 
 <section>
   <h3>Connect with me on my socials!</h3>
