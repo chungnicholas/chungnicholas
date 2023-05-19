@@ -78,13 +78,9 @@
     <p align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=chungnicholas&show_icons=true&count_private=true&theme=github_dark" alt="github-stats" />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chungnicholas&layout=compact&count_private=true&theme=github_dark" alt="github-toplang-stats" />
-   
+   </p>
 <!--       <img src="https://github-readme-stats.vercel.app/api?username=NicholasChungJunJie&show_icons=true&count_private=true&theme=github_dark" alt="github-stats" />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasChungJunJie&layout=compact&count_private=true&theme=github_dark" alt="github-toplang-stats" /> -->
-    </p>
-<!--     <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasChungJunJie&layout=compact&langs_count=10&count_private=true" alt="github-stats" />
-    </p> -->
   </div>
   <div>
     <p align="center">
