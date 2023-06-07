@@ -84,7 +84,7 @@
   </div>
   <div>
     <p align="center">
-      <img src="https://gpvc.arturio.dev/NicholasChungJunJie" alt="profile-views" />
+      <img src="https://gpvc.arturio.dev/chungnicholas" alt="profile-views" />
     </p>
   </div>
 </section>
