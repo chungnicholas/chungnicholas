@@ -28,7 +28,7 @@
 
 <hr>
 
-<details open>
+<details><!-- open> -->
 <summary>:man_technologist: Coding & Development :computer_mouse::arrow_up_down:</summary>
 <br>
 
