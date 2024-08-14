@@ -1,6 +1,6 @@
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&multiline=true&height=70&lines=hello!+I+am+Nicholas.;welcome+to+my+github+profile!)](https://git.io/typing-svg) -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?width=700&height=55&lines=hello!+I+am+Nicholas%2C+welcome+to++my+github+profile!)](https://git.io/typing-svg)
-- :notebook_with_decorative_cover: Year 3 Undergraduate @ National University of Singapore <img src="images/nuslogo.png" alt="nuslogo" height="35" width="auto" margin-top="50px" />
+- :notebook_with_decorative_cover: Final Year Undergraduate @ National University of Singapore <img src="images/nuslogo.png" alt="nuslogo" height="35" width="auto" margin-top="50px" />
 
 - :computer: Bachelor of Computing, Information Security (w/ Hons)
 
