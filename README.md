@@ -1,8 +1,9 @@
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&multiline=true&height=70&lines=hello!+I+am+Nicholas.;welcome+to+my+github+profile!)](https://git.io/typing-svg) -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?width=700&height=55&lines=hello!+I+am+Nicholas%2C+welcome+to++my+github+profile!)](https://git.io/typing-svg)
-- :notebook_with_decorative_cover: Final Year Undergraduate @ National University of Singapore <img src="images/nuslogo.png" alt="nuslogo" height="35" width="auto" margin-top="50px" />
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?width=700&height=55&lines=hello!+I+am+Nicholas%2C+welcome+to++my+github+profile!)](https://git.io/typing-svg) -->
+<h3>Hello! Welcome to my github profile</h3>
 
-- :computer: Bachelor of Computing, Information Security (w/ Hons)
+- :computer: KDB+ Software Engineer
+- :notebook_with_decorative_cover: Bachelor of Computing in Information Security (Distinction) @ National University of Singapore <img src="images/nuslogo.png" alt="nuslogo" height="35" width="auto" margin-top="50px" />
 
 <!-- - :vertical_traffic_light: Owner and developer of <a href="https://t.me/SGtrafficbot" title="SGtrafficbot" target="_blank">SGtrafficbot</a> on telegram -->
 
@@ -37,6 +38,7 @@
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
